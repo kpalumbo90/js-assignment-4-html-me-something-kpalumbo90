@@ -1,1 +1,45 @@
-/* Write your CSS here! */
+#mainheading {
+color: crimson;
+}
+.content {
+    text-align: center;
+  color: white;
+  } 
+  #testP {
+    color: rgb(20, 220, 70);
+    text-align: center;
+  }
+ .center {
+    text-align: center;
+    color:rgb(154, 150, 150);
+  }
+
+body {
+    margin: 8px;
+    font-display: block;
+}   
+.subheader{
+   text-align: center;
+    color: white;
+    font-size: 175%;
+}
+.subheader2{
+    text-align: center;
+     color: white;
+     font-size: 80%;
+ }
+ .subheader3{
+    text-align: center;
+     color: white;
+     font-size: 125%;
+ }
+.image {
+    text-align: center;
+    padding: 5px;
+}
+.imagesource {
+    text-align: center;
+    padding: 0px;
+    font-size: 50%;
+    color: white;
+}
