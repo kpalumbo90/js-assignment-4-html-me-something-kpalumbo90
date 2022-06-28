@@ -1,5 +1,5 @@
 #mainheading {
-color: rgb(195, 7, 44);
+color: red;
 font-size: 350%;
 text-shadow: -2px -2px rgb(0, 0, 0);
 }
@@ -9,7 +9,7 @@ text-shadow: -2px -2px rgb(0, 0, 0);
   font-size: 175%;
   } 
   #testP {
-    color: rgb(20, 220, 70);
+    color: green;
     text-align: center;
   }
  .center {
