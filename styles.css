@@ -1,5 +1,8 @@
-.mainHeading {
-color: red;
+#mainHeading {
+    color: red;
+}
+
+.willThisWork {
 font-size: 350%;
 text-shadow: -2px -2px rgb(0, 0, 0);
 }
